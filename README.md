@@ -1,4 +1,5 @@
-# VTYSodev
+#Nazif Doğuş Bölükbaş 121519055 VTYS
+Marmara Üniversitesi Fen Fakültesi İstatistik Bölümü
 
 🎯 Projenin Amacı
 Bu projenin amacı, kiralanabilir powerbank hizmeti sunan bir sistemde kullanıcıların cihazları ne kadar süreyle kullandığını, bu kullanımın yaş gruplarına göre farklılık gösterip göstermediğini ve günlük elde edilen kazancı analiz edebilecek bir veritabanı yapısı oluşturmaktır.
